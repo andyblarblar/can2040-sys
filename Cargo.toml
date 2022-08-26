@@ -1,0 +1,11 @@
+[package]
+name = "can2040-sys"
+version = "0.1.0"
+edition = "2021"
+license = "GPLv3"
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.60.1"
+cmake = { git = "https://github.com/messense/cmake-rs.git", branch = "cross-compile" }

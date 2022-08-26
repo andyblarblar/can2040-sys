@@ -1,0 +1,3 @@
+# This code is only intended to run on a pico, so this allows cmake to find cross compile chains
+[build]
+target = "thumbv6m-none-eabi"
