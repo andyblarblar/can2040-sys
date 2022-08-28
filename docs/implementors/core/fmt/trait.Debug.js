@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["can2040_sys"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.62.1/core/fmt/trait.Debug.html\" title=\"trait core::fmt::Debug\">Debug</a> for <a class=\"struct\" href=\"can2040_sys/struct.can2040_bitunstuffer.html\" title=\"struct can2040_sys::can2040_bitunstuffer\">can2040_bitunstuffer</a>","synthetic":false,"types":["can2040_sys::can2040_bitunstuffer"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
